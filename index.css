@@ -3,11 +3,11 @@ body{
 }
 
 .container{
-    background-color: brown;
-    box-shadow: rgb(180, 48, 48);
+    background-color:palevioletred;
     padding: 10px;
     margin:10px;
     background-image:url("bgbanner.jpg");
+    text-align: center;
 }
 
 .projects{
@@ -18,9 +18,22 @@ body{
 flex-direction: column;
 }
 #image{
-    direction: center;
+display: block;
+#image > p{
+    flex-wrap: fill: text-shadow: text-shadow: flex-grow: flex-shrink: ;;;;;;
+}
 }
 .Projects{
-    background-color: crimson;
-    flex-wrap: wrap;
+    background-color:plum;
+
+}
+
+.about{
+    display:flex;
+}
+
+
+#footer{
+    color: rgb(100, 57, 20);
+    text-align: end;
 }
