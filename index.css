@@ -1,5 +1,6 @@
 body{
-    background-color:skyblue;
+    
+    background-color:#a592df;
 }
 .name{
     font-size:large;
@@ -9,7 +10,7 @@ body{
 }
 
 .container{
-    background-color:plum;
+    background-color:cadetblue;
     padding: 10px;
     margin:10px;
     background-image:url("bgbanner.jpg");
@@ -22,7 +23,7 @@ flex-direction: column;
 justify-content: space-evenly;
 }
 .Projects{
-    background-color:plum;
+    background-color:cadetblue;
 
 }
 
@@ -33,7 +34,7 @@ justify-content: space-evenly;
 
 
 #footer{
-    background-color: plum;
+    background-color:cadetblue;
     color: rgb(100, 57, 20);
     text-align: end;
 }
