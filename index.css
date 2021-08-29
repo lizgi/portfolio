@@ -1,27 +1,25 @@
 body{
-    background-color: rgb(178, 178, 199);
+    background-color:skyblue;
+}
+.name{
+    font-size:large;
+}
+.image{
+    border-radius: 50px;
 }
 
 .container{
-    background-color:palevioletred;
+    background-color:plum;
     padding: 10px;
     margin:10px;
     background-image:url("bgbanner.jpg");
     text-align: center;
 }
 
-.projects{
-    background-color: coral;
-}
 
 .projects > ol >li{
 flex-direction: column;
-}
-#image{
-display: block;
-#image > p{
-    flex-wrap: fill: text-shadow: text-shadow: flex-grow: flex-shrink: ;;;;;;
-}
+justify-content: space-evenly;
 }
 .Projects{
     background-color:plum;
@@ -30,10 +28,12 @@ display: block;
 
 .about{
     display:flex;
+    justify-content: space-between;
 }
 
 
 #footer{
+    background-color: plum;
     color: rgb(100, 57, 20);
     text-align: end;
 }
