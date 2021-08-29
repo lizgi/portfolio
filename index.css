@@ -1,6 +1,26 @@
-.body{
-
+body{
+    background-color: rgb(178, 178, 199);
 }
-.navbar{
-    display: inline-flex;
+
+.container{
+    background-color: brown;
+    box-shadow: rgb(180, 48, 48);
+    padding: 10px;
+    margin:10px;
+    background-image:url("bgbanner.jpg");
+}
+
+.projects{
+    background-color: coral;
+}
+
+.projects > ol >li{
+flex-direction: column;
+}
+#image{
+    direction: center;
+}
+.Projects{
+    background-color: crimson;
+    flex-wrap: wrap;
 }
