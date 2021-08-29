@@ -1,29 +1,33 @@
 body{
-    
-    background-color:#a592df;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/001/433/959/non_2x/light-blue-background-with-stars-vector.jpg);
 }
 .name{
     font-size:large;
+    text-align-last: justify;
 }
 .image{
-    border-radius: 50px;
+    flex: 50px;
+    border-radius: 70px;
 }
 
 .container{
-    background-color:cadetblue;
+    background-color:cornflowerblue;
     padding: 10px;
     margin:10px;
     background-image:url("bgbanner.jpg");
     text-align: center;
 }
-
+.container.p{
+    text-shadow:2px 2px spx cornflowerblue;
+}
 
 .projects > ol >li{
+    font-weight: bolder;
 flex-direction: column;
 justify-content: space-evenly;
 }
 .Projects{
-    background-color:cadetblue;
+    background-color:cornflowerblue;
 
 }
 
@@ -34,7 +38,8 @@ justify-content: space-evenly;
 
 
 #footer{
-    background-color:cadetblue;
+    padding:20px;
+    background-color:cornflowerblue;
     color: rgb(100, 57, 20);
     text-align: end;
 }
