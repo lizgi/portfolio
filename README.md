@@ -1,11 +1,11 @@
 ## PROJECT NAME
-{portfolio landing page.}
+portfolio landing page.
 
 #### AUTHOR NAME
 By ELIZABETH GIKONYO
 
 ##PROJECT DESCRIPTION
-## {This webpage is a simple landing page of my some of my done projects,,some relevant information about me,,and more.}
+## This webpage is a simple landing page of my some of my done projects,,some relevant information about me,,and more.
 
 ##PROJECT SETUP INSTRUCTIONS
 ## Clone the project using git -clone . If you are not able to clone it, you can download the files as a zip folder
@@ -20,7 +20,7 @@ By ELIZABETH GIKONYO
 ## Html & Css
 
 ##LINK TO GH-PAGES
-
+https://lizgi.github.io/portfolio/
 
 ## LICENSE
 ## MIT LICENSE
